@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="web/public/logo.jpg" alt="CrystaLens logo" width="180">
-</p>
 
 CrystaLens is an AI-assisted workflow for X-ray diffraction (XRD) analysis. It combines an agentic backend (Starlette + Google ADK) with a modern Next.js web UI. The system can:
 
@@ -9,9 +6,7 @@ CrystaLens is an AI-assisted workflow for X-ray diffraction (XRD) analysis. It c
 - **RAG (Retrieval-Augmented Generation)**: build a FAISS vector database from extracted paper texts using OpenAI embeddings, then semantically retrieve the most relevant chunks to augment agent responses with cited, evidence-based context.
 - Stream results to the web UI as the pipeline progresses.
 
-<p align="center">
-  <img src="docs/media/workflow.png" alt="CrystaLens workflow diagram" width="800">
-</p>
+
 
 ---
 

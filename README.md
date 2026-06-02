@@ -49,7 +49,7 @@ pnpm i   # or npm i / yarn
 pnpm dev
 ```
 
-Open the UI at http://localhost:3000
+
 
 ---
 
